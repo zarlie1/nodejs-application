@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://54.190.3.217:8081/repository/Project-nodejs/"
+    "registry": "http://172.31.10.192:8081/repository/Project-nodejs/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
@@ -26,7 +26,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://http://54.190.3.217:8081/repository/Project-nodejs/"
+    "url": "https://http://172.31.10.192:8081/repository/Project-nodejs/"
   },
   "keywords": [
     "node",
